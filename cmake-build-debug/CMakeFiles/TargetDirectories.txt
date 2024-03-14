@@ -1,0 +1,3 @@
+/Users/andrikmeneses/CLionProjects/Using Poo/cmake-build-debug/CMakeFiles/untitled2.dir
+/Users/andrikmeneses/CLionProjects/Using Poo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andrikmeneses/CLionProjects/Using Poo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
